@@ -2,6 +2,14 @@
     max-width: 520px;
     margin: 0 auto;
     margin-top: 40px;
+    max-width: 420px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #FDE8E6;
 }
 
 .create-poll-form-button {
@@ -11,8 +19,8 @@
 .create-poll-form-button[disabled], .create-poll-form-button[disabled]:hover, .create-poll-form-button[disabled]:focus {
     opacity: 0.6;
     color: #fff;
-    background-color: #1890ff;
-    border-color: #1890ff;
+    background-color: #011D05;
+    border-color: #0A3200;
 }
 
 

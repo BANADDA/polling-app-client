@@ -15,7 +15,7 @@
 }
 
 .app-header {
-  background-color: #042B00;
+  background-color: #2B0400;
   position: fixed;
   width: 100%;
   box-shadow: 0 2px 8px #f0f1f2;
@@ -24,7 +24,7 @@
 }
 
 .app-menu {
-  background-color: #042B00;
+  background-color: #2B0700;
   float: right;
 }
 
